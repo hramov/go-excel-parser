@@ -1,5 +1,5 @@
 # Golang Excel Parser service
-### Based on [excelize](http://github.com/xuri/excelize/v2) 
+### Based on [excelize](http://github.com/xuri/excelize) 
 Description: web server that get Excel file and template JSON file to parse given Excel to JSON.
 
 ### It generates JSON representation of data in Excel file based on fields in template.
